@@ -1,2 +1,2 @@
-# prompts
-Prompts
+# templates
+Templates
